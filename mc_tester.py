@@ -16,7 +16,7 @@ def print_question(questions):
     return questions[qn]['rightids']
 
 if len(sys.argv) != 2:
-    print('Usage: {0} <path_to_questions'.format(sys.argv[0]))
+    print('Usage: {0} <path_to_questions>'.format(sys.argv[0]))
     sys.exit(1)
 else:
     with open(sys.argv[1], 'r') as f:
