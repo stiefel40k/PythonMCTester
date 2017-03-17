@@ -20,3 +20,6 @@ The catalog is in JSON format.
     "rightids":"<id of the right answers as one number>"}
 ]}
 ```
+
+# Disclaimer #
+I don't guarantee that the questions and the answers are correct or complete. So if you would fail the real test because you only learnt with my tool I'm not reponible for that.
