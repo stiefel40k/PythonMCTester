@@ -78,7 +78,7 @@
       {"text":"besteht u.a. aus einer Preisabweichung und einer Mengenabweichung", "id":3},
       {"text":"ist definiert als Differenz zwischen Ist- und Plankosten", "id":4}
     ],
-    "rightids":"24"},
+    "rightids":"23"},
     {"q":"Betrachten Sie das Modell des \"Straßendorfs von Hotelling\". Die Analyse zeigt, dass ... (1)",
     "answers":[
       {"text":"die für Konsumenten günstingste Strandortwahl kein Gleichgewicht im Standortwettbewerb ist", "id":1},
@@ -381,7 +381,7 @@
       {"text":"Die Netzwerkpartner sind wirtschaftlich unabhängig", "id":3},
       {"text":"Zwischen den Partnern im Netzwerk gibt es Kooperation, mitunter aber auch Wettbewerb", "id":4}
     ],
-    "rightids":"23"},
+    "rightids":"24"},
     {"q":"Welche der folgenden Begriffe stellen Produktionsfaktoren dar? (2)",
     "answers":[
       {"text":"menschliche Arbeit", "id":1},
@@ -453,14 +453,14 @@
       {"text":"verbraucht", "id":3}
     ],
     "rightids":"1"},
-    {"q":"Welche der folgenden sind nach Scholz (2000) Aufgabenfelder des Personalmanagement? (2)",
+    {"q":"Welche der Folgenden sind nach Scholz (2000) Aufgabenfelder des Personalmanagement? (2)",
     "answers":[
       {"text":"Personalfluktuation", "id":1},
       {"text":"Personalführung", "id":2},
       {"text":"Personaleinsatz", "id":3},
       {"text":"Personalwesen", "id":4}
     ],
-    "rightids":"34"},
+    "rightids":"23"},
     {"q":"In der Betriebsergebnisfunktion (1)",
     "answers":[
       {"text":"fungiert der Abastzpreis als Erfolgstreiber", "id":1},
@@ -587,7 +587,7 @@
       {"text":"ist der Grenzerlös gleich 0", "id":3},
       {"text":"ist der Grenzgewinn gleich den Grenzkosten", "id":4}
     ],
-    "rightids":"23"},
+    "rightids":"12"},
     {"q":"Welche Methoden können für die Personalsuche verwendet werden? (2)",
     "answers":[
       {"text":"Assesment-Center", "id":1},
@@ -603,7 +603,7 @@
       {"text":"sind Netzwerkbeziehungen eher auf Kooperation als auf Wettbewerb zwischen den Partnern ausgerichtet", "id":3},
       {"text":"sind Netzwerke die Koordinationsform ökonomischer Aktivitäten[?] die die geringsten Transaktionskosten verursacht", "id":4}
     ],
-    "rightids":"34"},
+    "rightids":"23"},
     {"q":"Was bedeutet Leiten und Lenken einer Organisation bezüglich der Qualität? (2)",
     "answers":[
       {"text":"Festlegung von Qualitätszielen", "id":1},
@@ -635,5 +635,5 @@
       {"text":"werden in der check-aktivität ermittelt", "id":3},
       {"text":"werden zur Ermittlung der Istkosten benötigt", "id":4}
     ],
-    "rightids":"12"}
+    "rightids":"13"}
 ]}
