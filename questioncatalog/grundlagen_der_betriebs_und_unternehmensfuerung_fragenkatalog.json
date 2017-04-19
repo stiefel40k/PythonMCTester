@@ -63,7 +63,7 @@
       {"text":"im Zeitablauf folgt einem s-förmigen Verlauf", "id":4}
     ],
     "rightids":"123"},
-    {"q":"Echte Preisdefferenzierung liegt vor, wenn ... (1)",
+    {"q":"Echte Preisdifferenzierung liegt vor, wenn ... (1)",
     "answers":[
       {"text":"die Bedienung unterschiedlicher Preissegmenten unternehmensseitig keinen Kostenunterschied verursacht", "id":1},
       {"text":"die erste Ableitung des Preises nach der Ausbringungsmenge von 0 verschieden ist", "id":2},
@@ -95,12 +95,12 @@
       {"text":"Aufgabensynthese", "id":4}
     ],
     "rightids":"24"},
-    {"q":"Bei der REkrutierung von Mitarbeitern am internen Arbeitsmarkt ... (2)",
+    {"q":"Bei der Rekrutierung von Mitarbeitern am internen Arbeitsmarkt ... (2)",
     "answers":[
       {"text":"werden nur Inländern angestellt", "id":1},
       {"text":"führt die Aussicht auf Beförderung zu einer Motivation der Mitarbeiter", "id":2},
       {"text":"ist es einfacher, Mitarbeiter mit den passenden Qualifikationen für die zu besetzende Stelle zu finden", "id":3},
-      {"text":"wird eine Stelle mit Personen esetzt, die bereits im Unternehmen beschäftigt sind", "id":4}
+      {"text":"wird eine Stelle mit Personen besetzt, die bereits im Unternehmen beschäftigt sind", "id":4}
     ],
     "rightids":"24"},
     {"q":"Was bedeuten die Begriffe des PDCA-Zyklus? (2)",
@@ -113,7 +113,7 @@
     "rightids":"12"},
     {"q":"Die G&V ... (1)",
     "answers":[
-      {"text":"kann nur nach dem Desamtkostenverfahren gegliedert werden.", "id":1},
+      {"text":"kann nur nach dem Gesamtkostenverfahren gegliedert werden.", "id":1},
       {"text":"kann nur nach dem Umsatzkostenverfahren gegliedert werden", "id":2},
       {"text":"zeigt die im Zuge der Leistungserstellung angefallenen Kosten", "id":3}
     ],
@@ -193,7 +193,7 @@
     {"q":"Stage-Gate-Prozesse ... (2)",
     "answers":[
       {"text":"enden mit der Entwicklungsphase eines Produkts", "id":1},
-      {"text":"dienen dazu alle marktrelevanten Aspekte bei der Marteinführung neuer Produkte zu berücksichtigen", "id":2},
+      {"text":"dienen dazu alle marktrelevanten Aspekte bei der Markteinführung neuer Produkte zu berücksichtigen", "id":2},
       {"text":"bestehen as Stages und Gates, wobei die Gates parallele Aktivitäten beinhalten", "id":3},
       {"text":"dienen der Aufspaltung des Innovationsprozesses in mehreren Arbeitsschritte", "id":4}
     ],
@@ -222,7 +222,7 @@
       {"text":"befindet sich die Gewinnzone", "id":4}
     ],
     "rightids":"3"},
-    {"q":"Elche der folgenden sind Ursachen für Marteintrittsbarrieren? (2)",
+    {"q":"Welche der folgenden sind Ursachen für Markteintrittsbarrieren? (2)",
     "answers":[
       {"text":"Netzwerkeffekte", "id":1},
       {"text":"hohe Preiselastizität der Nachfrage", "id":2},
@@ -259,7 +259,7 @@
       {"text":"dass der Grenzerlös gleich den Werbeausgaben sein muss", "id":1},
       {"text":"der Grenzerlös von den Werbeausgaben unabhängig ist", "id":2},
       {"text":"dass es bei konstanter Werbeelatizität und bei konstanter Preiselastizität der Nachfrage gewinnoptimal ist, einen fixen Teil des Erlöses in die Webung zu investieren", "id":3},
-      {"text":"dass im gewinnoptimum der Quotient aus Werbeausgaben und Erlös gleich dem Quotienten aus Werbeelastizität der Nachfrage und Preiselastizität der Nachfrage sein muss, jener Anteil vom Erlös in die Werbung fließen sill, der sich durch ptimale", "id":4}
+      {"text":"dass im gewinnoptimum der Quotient aus Werbeausgaben und Erlös gleich dem Quotienten aus Werbeelastizität der Nachfrage und Preiselastizität der Nachfrage sein muss, jener Anteil vom Erlös in die Werbung fließen soll, der sich durch ptimale", "id":4}
     ],
     "rightids":"34"},
     {"q":"Eigenschaften der an einer Transaktion beteiligten Akteure sind (2)",
@@ -333,7 +333,7 @@
       {"text":"konstante Grenzkosten", "id":3},
       {"text":"veränderte variable Einheitskosten", "id":4}
     ],
-    "rightids":"13"},
+    "rightids":"14"},
     {"q":"Die Preiselastizität der Nachfrage epsilon sagt aus, dass ... (1)",
     "answers":[
       {"text":"bei einem Preisanstieg von epsilon% die Nacfrage um 1% steigt", "id":1},
@@ -403,7 +403,7 @@
       {"text":"die Beziehung eines Produzenten zu seinen Kunden", "id":1},
       {"text":"den funktionalen Zusammenhang von Produktpreis und Erlös", "id":2},
       {"text":"jener Preis, bei dessen Überschreitung die Asbastzmenge auf 0 sinkt", "id":3},
-      {"text":"den funktionalen Zusammenhang von Preis- und Absatzmenge (und weiteren absatzpolitischen Instrumenten", "id":4}
+      {"text":"den funktionalen Zusammenhang von Preis- und Absatzmenge (und weiteren absatzpolitischen Instrumenten)", "id":4}
     ],
     "rightids":"4"},
     {"q":"Welche Aussage ist korrekt? (1)",
@@ -501,7 +501,7 @@
       {"text":"Maschienenauslastung maximieren", "id":4}
     ],
     "rightids":"13"},
-    {"q":"Phasen des Personalbeschaffungspreozesses sind (2)",
+    {"q":"Phasen des Personalbeschaffungsprozesses sind (2)",
     "answers":[
       {"text":"Personalplanung", "id":1},
       {"text":"Durchführung von Test", "id":2},
@@ -612,12 +612,12 @@
       {"text":"Erzielen einer hohen Lieferantenzufriedenheit", "id":4}
     ],
     "rightids":"12"},
-    {"q":"Welche der Folgenden sind Erscheinungdormern des Haio-Effekts? (2)",
+    {"q":"Welche der Folgenden sind Erscheinungsformen des Haio-Effekts? (2)",
     "answers":[
       {"text":"Die Interviewerin stellt den Bewerber ein, obwohl er nicht alle Quaifikationen besitzt, aber besser als die zwei vorhergehenden Bewerber war", "id":1},
       {"text":"Die Interviewerin hält den Bewerben wegen seines guten Auftretens für fachlich hoch qualifiziert", "id":2},
       {"text":"Der Bewerber überzeugt durch seine Arbeitserfahrung und gute Ausbildung", "id":3},
-      {"text":"Die Interviewerin hält den Bewerber für fachlich ungeeignet, weil er fpnf Minuten zu spät zum Interviewtermin erscheint", "id":4}
+      {"text":"Die Interviewerin hält den Bewerber für fachlich ungeeignet, weil er fünf Minuten zu spät zum Interviewtermin erscheint", "id":4}
     ],
     "rightids":"24"},
     {"q":"Repetierfaktoren ... (2)",
