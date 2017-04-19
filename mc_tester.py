@@ -7,8 +7,16 @@ import random
 
 all_questions = 0
 right_answers = 0
+used_questions = []
 def print_question(questions):
+    if len(used_questions) == len(questions):
+        print('The questionpool has been emtied. No more questions.')
+        return None
     qn = random.randint(0, len(questions) - 1)
+    while qn in used_questions:
+        qn = random.randint(0, len(questions) - 1)
+    used_questions.append(qn)
+
     question_text = questions[qn]['q']
     answer_text = ''
     for a in questions[qn]['answers']:
@@ -34,6 +42,8 @@ else:
     print()
     while True:
         right_answer = print_question(questions['questions'])
+        if right_answer is None:
+            break
         choice = input(">>> ").lower().rstrip()
         if choice == 'q':
             break
