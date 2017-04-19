@@ -5,7 +5,8 @@ import sys
 import json
 import random
 
-
+all_questions = 0
+right_answers = 0
 def print_question(questions):
     qn = random.randint(0, len(questions) - 1)
     question_text = questions[qn]['q']
@@ -37,11 +38,16 @@ else:
         if choice == 'q':
             break
         else:
+            all_questions += 1
             if right_answer == choice:
+                right_answers += 1
                 print('Your answer was right!')
             else:
                 print('The right answer would have been: ' + right_answer +
                       ' your answer was: ' + choice)
             print()
+    if all_questions > 0:
+        print('You answered {0} questions correctly out of {1} questions.'.format(right_answers, all_questions))
+        print('This means {0}%.'.format(right_answers/all_questions*100))
     print('Thanks for using this software. Bye')
     sys.exit(0)
