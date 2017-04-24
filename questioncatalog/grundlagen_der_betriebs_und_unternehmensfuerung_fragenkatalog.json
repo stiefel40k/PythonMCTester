@@ -153,7 +153,7 @@
     {"q":"Welche der folgenden Aussagen treffen auf virtuelle Unternehmungen zu? (2)",
     "answers":[
       {"text":"Sie werden meist infmationstechnisch unterstützt", "id":1},
-      {"text":"Der Kunde nimmt das virtuelle Unternehmen als ein einzifes Unternehmen wahr", "id":2},
+      {"text":"Der Kunde nimmt das virtuelle Unternehmen als ein einziges Unternehmen wahr", "id":2},
       {"text":"Durch die komplexe Produktionsstruktur muss der Kunde meist Kompromisse hinsichtlich Produktqualität in Kauf nehmen", "id":3},
       {"text":"Sie sind räumlich und zeitlich unbegrenzt", "id":4}
     ],
