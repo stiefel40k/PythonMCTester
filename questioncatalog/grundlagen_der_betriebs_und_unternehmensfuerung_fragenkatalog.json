@@ -166,14 +166,15 @@
       {"text":"Der Nettobedarf ist der Bruttobedarf abzüglich dem verfügbaren Lagerbestand", "id":4}
     ],
     "rightids":"4"},
-    {"q":"Identifizieren Sie bekannte Produktionsfunktionen! (2)",
+    {"q":"Identifizieren Sie bekannte Produktionsfunktionen! (3)",
     "answers":[
       {"text":"Gutenberg-Produktionsfunktion", "id":1},
       {"text":"Dangl-Sihn-Produktionsfunktion", "id":2},
       {"text":"Leontief-Produktionsfunktion", "id":3},
-      {"text":"Leonhoch-Produktionsfunktion", "id":4}
+      {"text":"Leonhoch-Produktionsfunktion", "id":4},
+      {"text":"Cobb-Douglas-Produktionsfunktion", "id":5}
     ],
-    "rightids":"13"},
+    "rightids":"135"},
     {"q":"Arbeitsteilung führt zu ... (2)",
     "answers":[
       {"text":"Koordinationsaufwand", "id":1},
@@ -182,14 +183,15 @@
       {"text":"höhere Produktivität durch Spezialisierung", "id":4}
     ],
     "rightids":"14"},
-    {"q":"Wodurch definiert sich Supply Chain Management? (2)",
+    {"q":"Wodurch definiert sich Supply Chain Management? (3)",
     "answers":[
       {"text":"Prozessorientiertes Lieferantenmanagement", "id":1},
       {"text":"Integrierte Betrachtung der Produktionslogistik", "id":2},
       {"text":"Integration von Lieferanten und Kunden", "id":3},
-      {"text":"Prozessorientierte Betrachtung der Werschöpfungskette", "id":4}
+      {"text":"Prozessorientierte Betrachtung der Werschöpfungskette", "id":4},
+      {"text":"Die Bestände bei Lieferanten werden reduziert", "id":5}
     ],
-    "rightids":"34"},
+    "rightids":"345"},
     {"q":"Stage-Gate-Prozesse ... (2)",
     "answers":[
       {"text":"enden mit der Entwicklungsphase eines Produkts", "id":1},
@@ -198,14 +200,15 @@
       {"text":"dienen der Aufspaltung des Innovationsprozesses in mehreren Arbeitsschritte", "id":4}
     ],
     "rightids":"24"},
-    {"q":"Welche der folgenden Kriterien sind relevant für die Lieferantenbewertungen? (2)",
+    {"q":"Welche der folgenden Kriterien sind relevant für die Lieferantenbewertungen? (3)",
     "answers":[
       {"text":"Nähe zum Endkunden", "id":1},
-      {"text":"Zertifizierte Lean Production", "id":2},
-      {"text":"Hohe Produktqualität", "id":3},
-      {"text":"Lieferantenflexibilität betreffend Variantenvielfalt und Menge", "id":4}
+      {"text":"Termintreue", "id":2},
+      {"text":"Zertifizierte Lean Production", "id":3},
+      {"text":"Hohe Produktqualität", "id":4},
+      {"text":"Lieferantenflexibilität betreffend Variantenvielfalt und Menge", "id":5}
     ],
-    "rightids":"34"},
+    "rightids":"125"},
     {"q":"Folgendes sind Funktionen des Handels (2)",
     "answers":[
       {"text":"Werbefunktion", "id":1},
@@ -286,14 +289,15 @@
       {"text":"sind tendenziell risikoavers einzustufen", "id":4}
     ],
     "rightids":"23"},
-    {"q":"Teilbereiche der Logistik sind ... (2)",
+    {"q":"Teilbereiche der Logistik sind ... (3)",
     "answers":[
       {"text":"Distributionslogistik", "id":1},
       {"text":"Personallogistik", "id":2},
-      {"text":"Finanzlogistik", "id":3},
-      {"text":"Produktionslogistik", "id":4}
+      {"text":"Beschaffungslogistik", "id":3},
+      {"text":"Produktionslogistik", "id":4},
+      {"text":"Finanzlogistik", "id":5}
     ],
-    "rightids":"14"},
+    "rightids":"124"},
     {"q":"Nennen Sie Formalziele der Produktionsstrategie! (2)",
     "answers":[
       {"text":"Senkung der (Produktions-)Durchlaufzeit", "id":1},
@@ -635,5 +639,397 @@
       {"text":"werden in der check-aktivität ermittelt", "id":3},
       {"text":"werden zur Ermittlung der Istkosten benötigt", "id":4}
     ],
-    "rightids":"13"}
+    "rightids":"13"},
+    {"q":"Bestandteile der Vorauswahlphase in Personalbeschaffungsprozessen sind (2)",
+    "answers":[
+      {"text":"Arbeitslaufanalyse", "id":1},
+      {"text":"Analyse von Empfehlungsschreiben/Referenzen", "id":2},
+      {"text":"Zeugnisanalyse", "id":3},
+      {"text":"Persönlichkeitstests", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Phasen des Personalbeschaffungsprozesses sind (2)",
+    "answers":[
+      {"text":"Kandidatensuche", "id":1},
+      {"text":"Austrittsinterview", "id":2},
+      {"text":"Aufgabensynthese", "id":3},
+      {"text":"Durchführung von Test", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Phasen des Personalbeschaffungsprozesses sind (2)",
+    "answers":[
+      {"text":"Austrittsinterview", "id":1},
+      {"text":"Bewerbungsinterview", "id":2},
+      {"text":"Einstellung ", "id":3},
+      {"text":"Personalplanung ", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Was spricht für die Rekrutierung über den internen statt dem externen Arbeitsmarkt? (2)",
+    "answers":[
+      {"text":"Die Einarbeitungszeit der Mitarbeiter ist kürzer", "id":1},
+      {"text":"Neue Ideen und Informationen werden in das Unternehmen gebracht", "id":2},
+      {"text":"Die asymetrische Information zwischen Bewerbern und Unternehmen wird verringert", "id":3},
+      {"text":"Das Unternehmen kann zwischen mehr Bewerbern auswählen", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welche der folgenden Aussagen treffen nicht auf virtuelle Unternehmungen zu? (2)",
+    "answers":[
+      {"text":"Die Zusammenarbeit ist in der Regel zeitlich unbegrenzt.", "id":1},
+      {"text":"Durch die komplexe Produktionsstruktur muss der Kunde meist Kompromisse hinsichtlich Produktqualität in Kauf nehmen.", "id":2},
+      {"text":"Der Kunde nimmt das virtuelle Unternehmen als ein einziges Unternehmen wahr.", "id":3},
+      {"text":"Sie werden meist infmationstechnisch unterstützt.", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Welche der folgenden Aussagen treffen nicht auf virtuelle Unternehmungen zu? (2)",
+    "answers":[
+      {"text":"Der Kunde nimmt das virtuelle Unternehmen als ein einziges Unternehmen wahr.", "id":1},
+      {"text":"Sie sind räumlich und zeitlich unbegrenzt.", "id":2},
+      {"text":"Die komplexe Form der Zusammenarbeit kann zu Terminverlusten und Qualitätseinbußen führen.", "id":3},
+      {"text":"Sie werden meist infmationstechnisch unterstützt.", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Vertikale  Arbeitsteilung bedeutet ... (1)",
+    "answers":[
+      {"text":"dass der Horizont der Mitarbeiter durch Ausbildungsmaßnahmen erweitert wird", "id":1},
+      {"text":"die Verknüpfung von Arbeitsprozessen in einem synthetischen Prozess", "id":2},
+      {"text":"eine Trennung der koordinierenden und ausführenden Tätigkeiten", "id":3},
+      {"text":"die Trennung zwischen Planung und Kontrolle", "id":4}
+    ],
+    "rightids":"3"},
+    {"q":"Welche der folgenden sind Ursachen für Markteintrittsbarrieren? (2)",
+    "answers":[
+      {"text":"Lizenz- oder Zulassungsanforderungen", "id":1},
+      {"text":"hohe Preiselastizität der Nachfrage", "id":2},
+      {"text":"Hohe Investitionskosten", "id":3},
+      {"text":"hohe Grenzkosten", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Transaktionskosten... (2)",
+    "answers":[
+      {"text":"sind Kosten der Leistungserstellung", "id":1},
+      {"text":"sind Kosten die durch Personalfluktuation verursacht werden", "id":2},
+      {"text":"werden vor Allem durch den Einsatz von Informationstechnologie verursacht", "id":3},
+      {"text":"sind die Kosten die für die Koordination arbeitsteiliger Leistungserstellung aufgewandt werden müssen", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Nennen Sie Sachziele der Produktionsstrategie! (2)",
+    "answers":[
+      {"text":"Kostensenkung durch Skaleneffekte", "id":1},
+      {"text":"Erhöhung der Produktqualität", "id":2},
+      {"text":"Erhöhung des ROI (Return on Investment)", "id":3},
+      {"text":"Erhöhung der Umsatzrentabilität", "id":4}
+    ],
+    "rightids":"24"},
+    {"q":"Im Rahmen der Kontroll-Aktivität und der Lenkungs-Aktivität des Liquiditäts-Managements fällt an ... (3)",
+    "answers":[
+      {"text":"Vergleich von Plan- und Ist-Betriebs-Cash Flows", "id":1},
+      {"text":"Selektion der Anpassungsmaßnahme", "id":2},
+      {"text":"Auswahl der Betriebs-Cash Flow-Funktion", "id":3},
+      {"text":"Analyse der Abweichung", "id":4}
+    ],
+    "rightids":"124"},
+    {"q":"Im Rahmen der Planung-Aktivität des Liquiditäts-Managements fällt an ... (2)",
+    "answers":[
+      {"text":"Berechnung des Plan-Betriebs-Cash-Flows", "id":1},
+      {"text":"Selektion der Anpassungsmaßnahme", "id":2},
+      {"text":"Festlegung der geplanten Absatzleistung", "id":3},
+      {"text":"Festlegung der geplanten Produktionsleistung", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Die Preiselastizität der Nachfrage epsilon sagt aus, dass ... (2)",
+    "answers":[
+      {"text":"bei einem Preisanstieg von epsilon% die Nacfrage um 1% steigt", "id":1},
+      {"text":"bei einer Preisanstieg von 1% die Nachfrage um epsilon% sinkt", "id":2},
+      {"text":"die Nachfrage bei einer Preissteigerung sinkt", "id":3},
+      {"text":"die Nachfrage bei einer Preissteigerung steigt (Steve-Jobs-Effekt)", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Setzt ein Unternehmen im Monopol den Preis für sein Produkt erlösoptimal, dann ... (2)",
+    "answers":[
+      {"text":"ist die Nachfrage keinesfalls im inealstischen Bereich", "id":1},
+      {"text":"ist der Grenzerlös gleich den Grenzkosten", "id":2},
+      {"text":"ist der Grenzerlös gleich 0", "id":3},
+      {"text":"ist die Preiselastizität der Nachfrage gleich 1", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Welche der folgenden Begriffe stellen Produktionsfaktoren dar? (2)",
+    "answers":[
+      {"text":"Informationen", "id":1},
+      {"text":"Betriebsmittel", "id":2},
+      {"text":"verkauffähiges Produkt", "id":3},
+      {"text":"Grundstück", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Welche der folgenden Begriffe stellen Produktionsfaktoren dar? (2)",
+    "answers":[
+      {"text":"verkauffähiges Produkt", "id":1},
+      {"text":"Betriebsmittel", "id":2},
+      {"text":"Rohstoffe, Hilfs- und Betriebsstoffe", "id":3},
+      {"text":"Liegenschaften des Unternehmens", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Ein Unternehmen ist Oligopolist, wenn ... (2)",
+    "answers":[
+      {"text":"es einer von wenigen Anbietern auf dem Markt ist", "id":1},
+      {"text":"Preis-, Mengen und weiteren absatzploitische Entscheidungen anderer Unternehmen Einfluss auf die Preis-Absatz-Relation des Unternehmens haben", "id":2},
+      {"text":"es der einzige Anbieter auf dem Markt ist", "id":3},
+      {"text":"es zu hohe Preise für seine Produkte verlangt", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Welche der Folgenden sind nach Scholz (2000) Aufgabenfelder des Personalmanagement? (2)",
+    "answers":[
+      {"text":"Personalfluktuation", "id":1},
+      {"text":"Personalentwicklung", "id":2},
+      {"text":"Personaländerung", "id":3},
+      {"text":"Personalwesen", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Welche der Folgenden sind nach Scholz (2000) Aufgabenfelder des Personalmanagement? (2)",
+    "answers":[
+      {"text":"Personalkosten", "id":1},
+      {"text":"Personalfluktuation", "id":2},
+      {"text":"Personaländerung", "id":3},
+      {"text":"Personalwesen", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welche Aussage betreffend Produktionsorganisation ist falsch? (3)",
+    "answers":[
+      {"text":"Beim Verrichtungsprinzip werden Arbeitsstationen/Betriebsmittel in der Reihenfolge des Materialflusses angeordnet", "id":1},
+      {"text":"Wiederholfertigung zeichnet sich durch sehr große Stückzahlen aus", "id":2},
+      {"text":"In der Massenfertigung ist das Prinzip der Fließfertigung erstrebenswert", "id":3},
+      {"text":"Massenfertigung ist gekennzeichnet durch kleine Fertigungslose", "id":4}
+    ],
+    "rightids":"124"},
+    {"q":"Welche Aussage betreffend Produktionsorganisation ist richtig? (2)",
+    "answers":[
+      {"text":"Variantefertigung ist die Herstellung ähnlicher Produkte des selben Grundtyps", "id":1},
+      {"text":"Wiederholfertigung zeichnet sich durch sehr große Stückzahlen aus", "id":2},
+      {"text":"Einzelfertigung zeichnet sich durch einen geringen Automatisierungsgrad aus", "id":3},
+      {"text":"Massenfertigung ist gekennzeichnet durch kleine Fertigungslose", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Nennen Sie die Aufgaben/Funktionen der Arbeitsplanung (2)",
+    "answers":[
+      {"text":"Planung der Fabrikhalle und der enthaltenen Arbeitsplätzen", "id":1},
+      {"text":"Bestände der Produktion maximieren", "id":2},
+      {"text":"Materialbedarf je Einheit bestimmen", "id":3},
+      {"text":"Maschienenauslastung maximieren", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Nennen Sie die Aufgaben/Funktionen der Arbeitsplanung (2)",
+    "answers":[
+      {"text":"Kostenplanung z.B. auf Basis von Materialbedarf", "id":1},
+      {"text":"Bestände der Produktion maximieren", "id":2},
+      {"text":"Abwickeln von Kundenaufträgen", "id":3},
+      {"text":"Erstellung von Standard Operating Procedures (Arbeitsplänen)", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Die Arbeitsplanung... (2)",
+    "answers":[
+      {"text":"muss die Produktherstellungskosten minimieren", "id":1},
+      {"text":"kümmert sich um Termin- und Kapazitätsplanung", "id":2},
+      {"text":"muss die Maschinenauslastung maximieren", "id":3},
+      {"text":"kümmert sich nicht um die Kundenauftragsabwicklung", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Die Produktionsplanung und -steuerung... (2)",
+    "answers":[
+      {"text":"kümmert sich um Termin- und Kapazitätsplanung", "id":1},
+      {"text":"Erstellt Standard Operating Procedures (Arbeitspläne)", "id":2},
+      {"text":"ist durch 5 Zielgrößen gekennzeichnet, die teilweise im Widerspruch zueinander stehen", "id":3},
+      {"text":"kümmert sich um die Planung der Fabrikhalle", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Ein Agio liegt vor, wenn ... (2)",
+    "answers":[
+      {"text":"der Barwert der künftigen Zahlung kleiner als der Nennwert der Schuld ist", "id":1},
+      {"text":"der Barwert der künftigen Zahlung größer als der Nennwert der Schuld ist", "id":2},
+      {"text":"der Nennwert der Schuld größer als der Barwert der künftigen Zahlungen ist(Auszahlungsbetrag)", "id":3},
+      {"text":"der Nennwert der Schuld kleiner als der Barwert der künftigen Zahlungen ist(Auszahlungsbetrag)", "id":4}
+    ],
+    "rightids":"24"},
+    {"q":"Finanzierungen  sind dadruch gekennzeichnet, dass sie ... (2)",
+    "answers":[
+      {"text":"in der Regel zu künftige Auszahlungen führen", "id":1},
+      {"text":"in der Regel zu künftigen Einzahlungen führen", "id":2},
+      {"text":"mit einer Einzahlung beginnen", "id":3},
+      {"text":"mit einer Auszahlung beginnen", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Das Standardmodell zur Analyse von Strategien im Mengensetzungswettbewerb ist das ... (1)",
+    "answers":[
+      {"text":"Cournotmodell", "id":1},
+      {"text":"Dorfman-Steiner Modell", "id":2},
+      {"text":"Bertrandmodell", "id":3},
+      {"text":"Nashmodell", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Geld(Cash) bezieht sich in der Kapitalflussrechnung auf... (2)",
+    "answers":[
+      {"text":"Entgelt", "id":1},
+      {"text":"Bargeld", "id":2},
+      {"text":"Buchgeld", "id":3},
+      {"text":"Spielgeld", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Welche der folgenden Aussagen ist korrekt? (1)",
+    "answers":[
+      {"text":"Qualitätskontrolle kann man sich zertifizieren lassen!", "id":1},
+      {"text":"Qualität ist die Zufriedenstellung der Lieferanten (durch Erfüllung der Anforderungen)!", "id":2},
+      {"text":"Total Quality Management ist kein Zertifikat!", "id":3},
+      {"text":"Ein Zertifikat liefert hohe Produktqualität!", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Welche Aussagen zu lateralen Koordinationsmechanismen treffen zu? (2)",
+    "answers":[
+      {"text":"Fayol'sche Brücken ermöglichen die Beschleunigung der Weisungserteilung durch Umgehung des Instanzenzugs", "id":1},
+      {"text":"Während Task Forces auf länger beständige Aufgabenstellungen ausgerichtet sind werden Teams nach Aufgabenerfüllung aufgelöst", "id":2},
+      {"text":"Sie verbessern die Abstimmung und den Informationsaustausch über Abteilungen hinweg", "id":3},
+      {"text":"Produktmanager koordinieren die Tätigkeiten bezüglich 'ihres' Produkts in einer ansonsten nicht nach Produkten gegliederten Primärstruktur!", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Nennen Sie wesentliche Aufgaben und Bereiche des Einkaufs!",
+    "answers":[
+      {"text":"Vertragsabschluss mit Kunden!", "id":1},
+      {"text":"Erstellung von Markteintrittsbarrieren!", "id":2},
+      {"text":"Durchführen von Wert- und Preisanalysen!", "id":3},
+      {"text":"Verhandlungen mit Lieferanten!", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Im Portfolio-Management geht es um die Planung, Kontrolle und Lenkung von ... (2)",
+    "answers":[
+      {"text":"passivseitigen Finanzinstrumenten", "id":1},
+      {"text":"aktivseitigen Finanzinstrumenten", "id":2},
+      {"text":"Sachanlagevermögen", "id":3},
+      {"text":"Erfolgen", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Die Umsatzerlöse werden ermittelt, indem ... (1)",
+    "answers":[
+      {"text":"zu den Umsatzkosten die Absatzmenge addiert wird", "id":1},
+      {"text":"von der Absatzmenge die Umsatzkosten abgezogen werden", "id":2},
+      {"text":"zum Umsatz die Umsatzkosten addiert werden", "id":3},
+      {"text":"vom Umsatz die Umsatzkosten abgezogen werden", "id":4}
+    ],
+    "rightids":"3"},
+    {"q":"Im Liquiditätsmanagement geht es um die Planung, Kontrolle und Lenkung von ... (2)",
+    "answers":[
+      {"text":"Erfolgen", "id":1},
+      {"text":"Kosten", "id":2},
+      {"text":"Zahlungsströmen", "id":3},
+      {"text":"Geldflüssen", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Man sagt, Firmen haben Marktmacht, wenn ... (2)",
+    "answers":[
+      {"text":"die Preis-Absatz Relation p = f(x) negative Steigung hat", "id":1},
+      {"text":"sie Konkurrenten aus dem Markt drängen können", "id":2},
+      {"text":"sie über den Markteintritt von Konkurrenten mitentscheiden können", "id":3},
+      {"text":"sie durch Verknappung der Angebotsmenge den Gleichgewichtspreis erhöhen können", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Aufgabenverteilung bedeutet ... (1)",
+    "answers":[
+      {"text":"die Zerlegung einer Gesamtaufgabe in einzelne Teilaufgaben und Zuordnung der Teilaufgaben zu einzelnen Stellen", "id":1},
+      {"text":"dass mehrere Mitarbeiter inhaltlich gleiche Beiträge zur Gesamtleistung beitragen", "id":2},
+      {"text":"die Häufigkeitsverteilung des Auftretens unterschiedlicher Aufgabentypen im Unternehmen", "id":3},
+      {"text":"die Analyse der Teilaktivitäten eines Geschäftsprozesses", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Die Konsequenzen von Arbeitsteilung sind ... (2)",
+    "answers":[
+      {"text":"die Notwendigkeit Teilleistungen aufeinander abzustimmen", "id":1},
+      {"text":"eine höhere Produktivität aufgrund der Möglichkeit zur Spezialisierung", "id":2},
+      {"text":"eine Weiterqualifikation und breitere Wissensbasis der Mitarbeiterinnen", "id":3},
+      {"text":"die Reduktion der Führungsaufgaben von Instanzen", "id":4}
+    ],
+    "rightids":"24"},
+    {"q":"Welche der folgenden Aussagen über eines der sieben neuen Qualitätswerkzeuge (M7/N7) sind falsch? (2)",
+    "answers":[
+      {"text":"Der Netzplan zeigt den zeitkritischen Pfad (=Engpass) eines Projekts auf!", "id":1},
+      {"text":"Im Netzplan werden Arbeitspakete eines Projekts logisch miteinander verknüpft!", "id":2},
+      {"text":"Die sieben neuen Qualitätswerkzeuge (M7/N7) dienen zur Fehlererfassung und -analyse!", "id":3},
+      {"text":"Der Netzplan stellt die exakte Termineinhaltung eines Projekts sicher!", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Käufergruppen im Hauptmarkt des Diffusionsprozesses sind ... (2)",
+    "answers":[
+      {"text":"Frühe Mehrheit", "id":1},
+      {"text":"Nachzügler", "id":2},
+      {"text":"Frühkäufer", "id":3},
+      {"text":"Innovatoren", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":" Wenn die Herstellkosten-Funktion eine positive Steigung besitzt, sind ... (2)",
+    "answers":[
+      {"text":"die variablen Einheitskosten positiv", "id":1},
+      {"text":"die variablen Einheitskosten negativ", "id":2},
+      {"text":"die variablen Gesamtkosten negativ", "id":3},
+      {"text":"die variablen Gesamtkosten positiv", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Die Betriebs-Cash Flow-Funktion modelliert den Betriebs-Cash Flow in Abhängigkeit von ... (1)",
+    "answers":[
+      {"text":"der verkauften Menge", "id":1},
+      {"text":"der gelieferten Liefermenge", "id":2},
+      {"text":"der produzierten Menge", "id":3},
+      {"text":"der beschafften Menge", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Welche Faktoren haben direkten Einfluß auf den Personaleinsatzbedarf? (2)",
+    "answers":[
+      {"text":"Vorhersehbare Pensionierungen", "id":1},
+      {"text":"Die aktuelle Arbeitsmarktsituation", "id":2},
+      {"text":"Die Organisationsstruktur des Unternehmens", "id":3},
+      {"text":"Die Effizienz des Leistungserstellungsprozesses", "id":4}
+    ],
+    "rightids":"124"},
+    {"q":"Funktionsbereiche der Logistik sind ... (2)",
+    "answers":[
+      {"text":"Beschaffungslogistik", "id":1},
+      {"text":"Distributionslogistik", "id":2},
+      {"text":"Beschaffungsmarktlogistik", "id":3},
+      {"text":"Kundenlogistik", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Die Arbeitsplanung... (2)",
+    "answers":[
+      {"text":"kümmert sich nicht um die Kundenauftragsabwicklung!", "id":1},
+      {"text":"beginnt mit der Einplanung von Kundenaufträgen in die Produktion!", "id":2},
+      {"text":"ist verantwortlich für die wirtschaftliche und fertigungsgerechte Gestaltung eines Erzeugnisses!", "id":3},
+      {"text":"hat die Aufgabe den Prozess der Produkterstellung mengen-, termin, und kapazitätsmäßig zu planen!", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Ist die Kreuzpreiselastizität epsilon_ij positiv, dann ... (2)",
+    "answers":[
+      {"text":"nennt man die beiden Produkte Substitute.", "id":1},
+      {"text":"nennt man die beiden Produkte Komplemente.", "id":2},
+      {"text":"steigt die Nachfrage nach Gut i, wenn der Preis für Gut j erhöht wird.", "id":3},
+      {"text":"steigt der Preis für Gut j, wenn der Preis für Gut i sinkt.", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Eine anlagenintensive Technologie besitzt in der Regel ... (2)",
+    "answers":[
+      {"text":"hohe Fixkosten.", "id":1},
+      {"text":"geringe variable Kosten.", "id":2},
+      {"text":"hohe variable Kosten.", "id":3},
+      {"text":"geringe Fixkosten.", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Ein Unternehmen ist Oligopolist, wenn ... (2)",
+    "answers":[
+      {"text":"Preis-, Mengen- und weitere absatzpolitische Entscheidungen von wenigen Konkurrenten Einfluss auf die Preis-Absatz-Relation des Unternehmens haben.", "id":1},
+      {"text":"es einer von wenigen Anbietern auf einem Markt ist.", "id":2},
+      {"text":"es durch übermäßigen Wettbewerb in den Ruin getrieben wird.", "id":3},
+      {"text":"es nur wenige Abnehmer für die Produkte des Unternehmens gibt.", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Welche Kriterien werden in der Personalvorauswahl berücksichtigt? (2)",
+    "answers":[
+      {"text":"Ergebnisse des Assessment Centers", "id":1},
+      {"text":"Erfüllung formaler Voraussetzungen", "id":2},
+      {"text":"Lebenslauf des Bewerbers", "id":3},
+      {"text":"Ergebnisse von Persönlichkeitstests", "id":4}
+    ],
+    "rightids":"23"}
 ]}
