@@ -4,6 +4,7 @@ import os.path
 import sys
 import json
 import random
+import re
 
 all_questions = 0
 right_answers = 0
@@ -44,9 +45,10 @@ else:
     print('The questions are coming. If you want to quit, ' +
           'please hit q and Enter')
     print()
-    print('Please enter the correct answers sorted as one number')
+    print('You can enter the answers in any kind of form.')
     print('So if you think answer 1, 2 and ' +
-          '4 are the right one, please enter "124"')
+          '4 are the right one, you can enter "1 2 4" or "241" ' +
+          'or anything else.')
     input('Press Enter to start')
     print()
     while True:
@@ -58,6 +60,9 @@ else:
             break
         else:
             all_questions += 1
+            choice = re.findall('[0-9]', choice)
+            choice.sort()
+            choice = ''.join(choice)
             if right_answer == choice:
                 right_answers += 1
                 print('Your answer was right!')
