@@ -60,7 +60,7 @@ else:
             break
         else:
             all_questions += 1
-            choice = re.findall('[0-9]', choice)
+            choice = re.findall('[1-9]', choice)
             choice.sort()
             choice = ''.join(choice)
             if right_answer == choice:
