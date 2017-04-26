@@ -18,7 +18,7 @@ def print_question(questions):
         qn = random.randint(0, len(questions) - 1)
     used_questions.append(qn)
 
-    question_text = questions[qn]['q']
+    question_text = '{0}/{1}) {2}'.format(str(len(used_questions)), str(len(questions)), questions[qn]['q'])
     answer_text = ''
     counter = 1
     new_rightids = ''
