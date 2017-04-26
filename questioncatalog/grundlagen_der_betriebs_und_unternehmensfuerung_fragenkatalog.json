@@ -1191,5 +1191,53 @@
       {"text":"eine Funktion, die den erzielbaren Preis bei gegebener Absatzmenge angibt.", "id":3},
       {"text":"eine Funktion, die die Nachfrage nach einem Gut als Funktion des Preises angibt.", "id":4}
     ],
+    "rightids":"4"},
+    {"q":"Wie beeinflussen Informationstechnologien die Transaktionskosten? (2)",
+    "answers":[
+      {"text":"Die Transaktionskosten sinken, weil Komplexität von Leistungen besser bewältigt werden kann", "id":1},
+      {"text":"Die Transaktionskosten steigen durch eine zunehmende Datenflut", "id":2},
+      {"text":"Die Kosten der Vereinbarung sinken durch den Einsatz elektronischer Kommunikationsmedien", "id":3},
+      {"text":"Die Transaktionskosten sinken, weil die Gefahr von opportunistischem Verhalten geringer wird", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welches der folgenden Tools zählt nicht zu den sieben Qualitätswerkzeugen (Q7)? (1)",
+    "answers":[
+      {"text":"Histogramm", "id":1},
+      {"text":"lshikawa-Diagramm", "id":2},
+      {"text":"ABC-Analyse", "id":3},
+      {"text":"Netzplan", "id":4}
+    ],
+    "rightids":"4"},
+    {"q":"Die Erfolgsabweichung entspricht ... (2)",
+    "answers":[
+      {"text":"der Differenz zwischen IST-EBIT und Wird-EBIT", "id":1},
+      {"text":"der Verkaufspreisabweichung minus der variablen Kostenabweichung", "id":2},
+      {"text":"der Differenz zwischen IST-EBIT und Soll-EBIT", "id":3},
+      {"text":"der Differenz zwischen IST-EBIT und Plan-EBIT", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Ausschüttungen an die Eigenkapitalgeber... (1)",
+    "answers":[
+      {"text":"erhöhen den Finanzerfolg der Unternehmung", "id":1},
+      {"text":"erhöhen das Eigenkapital, wenn sie den Jahreserfolg übersteigen", "id":2},
+      {"text":"mindern den Jahreserfolg der Unternehmung", "id":3},
+      {"text":"mindern das Eigenkapital, wenn sie den Jahreserfolg übersteigen", "id":4}
+    ],
+    "rightids":"4"},
+    {"q":"Setzt ein Unternehmen im Monopol den Preis für sein Produkt erlösoptimal, dann ... (2)",
+    "answers":[
+      {"text":"ist der Grenzerlös gleich den Grenzkosten", "id":1},
+      {"text":"ist der Grenzgewinn gleich den Grenzkosten", "id":2},
+      {"text":"ist die Preiselastizität der Nachfrage gleich", "id":3},
+      {"text":"ist der Grenzerlös gleich null", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Ein negativer Jahreserfolg verringert ... (1)",
+    "answers":[
+      {"text":"die kurzfristigen Verbindlichkeiten", "id":1},
+      {"text":"die langfristigen Verbindlichkeiten", "id":2},
+      {"text":"das Fremdkapital", "id":3},
+      {"text":"das Eigenkapital", "id":4}
+    ],
     "rightids":"4"}
 ]}
