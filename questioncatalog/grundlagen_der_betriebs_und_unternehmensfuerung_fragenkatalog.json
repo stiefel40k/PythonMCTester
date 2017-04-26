@@ -477,7 +477,7 @@
     "answers":[
       {"text":"dominiert bei Prozess", "id":1},
       {"text":"erfordert ein geringeres Maß an Managementaufwand als Market-Pull", "id":2},
-      {"text":"löst of einen neuen Technologiezyklus aus", "id":3},
+      {"text":"löst oft einen neuen Technologiezyklus aus", "id":3},
       {"text":"hat seinen Ausgangspunk in der Grundlagenforschung", "id":4}
     ],
     "rightids":"34"},
@@ -600,7 +600,7 @@
       {"text":"Stellenanzeige", "id":4}
     ],
     "rightids":"24"},
-    {"q":"Nach der Definizion von Sydow aus dem Jahr 1992 ... (2)",
+    {"q":"Nach der Definition von Sydow aus dem Jahr 1992 ... (2)",
     "answers":[
       {"text":"zeichnen sich Netzwerke durch kurzfristige Beziehungen von wirtschaftlich selbständigen Unternehmen aus", "id":1},
       {"text":"zielen Netzwerke auf die Realisierung Wettbewerbsvorteilen[?] ab", "id":2},
