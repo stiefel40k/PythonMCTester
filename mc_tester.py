@@ -19,11 +19,20 @@ def print_question(questions):
 
     question_text = questions[qn]['q']
     answer_text = ''
-    for a in questions[qn]['answers']:
-        answer_text += str(a['id']) + ') ' + a['text'] + '\n'
+    counter = 1
+    new_rightids = ''
+    answers = questions[qn]['answers']
+    random.shuffle(answers)
+    #for a in questions[qn]['answers']:
+    for a in answers:
+        if str(a['id']) in questions[qn]['rightids']:
+            new_rightids += str(counter)
+        answer_text += str(counter) + ') ' + a['text'] + '\n'
+        counter += 1
     print(question_text)
     print(answer_text)
-    return questions[qn]['rightids']
+    return new_rightids
+    #return questions[qn]['rightids']
 
 if len(sys.argv) != 2:
     print('Usage: {0} <path_to_questions>'.format(sys.argv[0]))
