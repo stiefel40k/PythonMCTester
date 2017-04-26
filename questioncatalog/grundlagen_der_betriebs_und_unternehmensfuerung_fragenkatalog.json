@@ -1366,5 +1366,37 @@
       {"text":"job enlargement", "id":3},
       {"text":"job entitlement", "id":4}
     ],
-    "rightids":"13"}
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Marktinnovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Prozessinnovation", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Organisationale Innovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Produktinnovation", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Organisationale Innovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Neue Rohstoffe oder Vorprodukte (Inputs)", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welches der folgenden Tools zählt nicht zu den sieben Qualitätswerkzeugen (Q7)? (1)",
+    "answers":[
+      {"text":"Qualitätsregelkarte", "id":1},
+      {"text":"Fehlersammelliste oder Aufnahmebogen", "id":2},
+      {"text":"PDCA-Zyklus", "id":3},
+      {"text":"Grafische Darstellung/Stratifikation", "id":4}
+    ],
+    "rightids":"3"}
 ]}
