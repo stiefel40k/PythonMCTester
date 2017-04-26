@@ -1135,5 +1135,61 @@
       {"text":"Bei einem strukturierten Interview wird ein fest vorgegebener Fragebogen verwendet", "id":3},
       {"text":"Bei einem Jury-Interview wird jeder Bewerber einzeln von einem einzigen Interviewer, genannt Jury, befragt", "id":4}
     ],
-    "rightids":"23"}
+    "rightids":"23"},
+    {"q":"Die Produktionsplanung und -steuerung... (2)",
+    "answers":[
+      {"text":"konstruiert Produkte zum günstigst möglichen Preis!", "id":1},
+      {"text":"steuert Kundenaufträge in die Produktion ein!", "id":2},
+      {"text":"ist durch 5 Zielgrößen gekennzeichnet, die teilweise im Widerspruch zueinander stehen!", "id":3},
+      {"text":"gestaltet die Produktion nach Lean-Prinzipien!", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Was sind Charakteristika eines dynamischen Netzwerkes? (2)",
+    "answers":[
+      {"text":"gleicher oder annähernd gleicher Einfluss der Netzwerkmitglieder auf Entscheidungen und Handlungen des Netzwerks", "id":1},
+      {"text":"Die Netzwerkpartner sind rechtlich selbständige Unternehmen", "id":2},
+      {"text":"Die Unternehmen im Netzwerk sind an den anderen Netzwerkpartnern beteiligt", "id":3},
+      {"text":"Das Netzwerk wird von einem Unternehmen mit Vormachtstellung geleitet", "id":4}
+    ],
+    "rightids":"12"},
+    {"q":"Typische steuernde Rollen in Unternehmensnetzwerken sind ... (2)",
+    "answers":[
+      {"text":"der Netzwerk-Coach", "id":1},
+      {"text":"der Netzwerk-Administrator", "id":2},
+      {"text":"der Netzwerk-Broker", "id":3},
+      {"text":"der Netzwerk-Provider", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Untersuchungen zum Strategischen Management ... (2)",
+    "answers":[
+      {"text":"nehmen an, dass Konkurrenzunternehmen keinesfalls auf Preis- oder Mengenänderungen reagieren", "id":1},
+      {"text":"gehen von konstanter Preiselastizität der Nachfrage aus", "id":2},
+      {"text":"berücksichtigen die Wechselwirkungen einzelner Unternehmen in einem Markt", "id":3},
+      {"text":"nehmen makroökonomische Rahmenbedingungen wie die Zinsentscheidungen der Notenbank oder die Verfügbarkeit von Arbeitskräften als von den eigenen Aktionen unabhängig an", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Welche der folgenden Aussagen ist wahr? (1)",
+    "answers":[
+      {"text":"Minimierung der Durchlaufzeit erfordert hohe Bestände!", "id":1},
+      {"text":"Maximierung der Kapazitätsauslastung erfordert hohe Materialbestände!", "id":2},
+      {"text":"Geringe Bestände erhöhen tendentiell die Lieferbereitschaft!", "id":3},
+      {"text":"Maximierung der Kapazitätsauslastung führt zu geringer Kapitalbindung!", "id":4}
+    ],
+    "rightids":"Keine Ansätze zur Erklärung der Existenz von Unternehmensnetzwerken sind... (2)"},
+    {"q":"2",
+    "answers":[
+      {"text":"Neue Institutionenökonomie", "id":1},
+      {"text":"Transaktionskostentheorie", "id":2},
+      {"text":"Kernkompetenzansatz", "id":3},
+      {"text":"Neoklassische ökonomische Theorie", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Als inverse Nachfragefunktion bezeichnet man ... (1)",
+    "answers":[
+      {"text":"eine Funktion, welche das Angebot auf dem Markt als Funktion des Preises angibt.", "id":1},
+      {"text":"eine Funktion, welche die Anzahl der Reklamationen angibt.", "id":2},
+      {"text":"eine Funktion, die den erzielbaren Preis bei gegebener Absatzmenge angibt.", "id":3},
+      {"text":"eine Funktion, die die Nachfrage nach einem Gut als Funktion des Preises angibt.", "id":4}
+    ],
+    "rightids":"4"}
 ]}
