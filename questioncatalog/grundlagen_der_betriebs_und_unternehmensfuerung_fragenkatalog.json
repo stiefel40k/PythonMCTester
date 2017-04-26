@@ -297,7 +297,25 @@
       {"text":"Produktionslogistik", "id":4},
       {"text":"Finanzlogistik", "id":5}
     ],
-    "rightids":"124"},
+    "rightids":"134"},
+    {"q":"Teilbereiche der Logistik sind ... (3)",
+    "answers":[
+      {"text":"Entsorgungslogistik", "id":1},
+      {"text":"Personallogistik", "id":2},
+      {"text":"Transportlogistik", "id":3},
+      {"text":"Lagerlogistik", "id":4},
+      {"text":"Finanzlogistik", "id":5}
+    ],
+    "rightids":"134"},
+    {"q":"Teilbereiche der Logistik sind ... (3)",
+    "answers":[
+      {"text":"Distributionslogistik", "id":1},
+      {"text":"Personallogistik", "id":2},
+      {"text":"Beschaffungslogistik", "id":3},
+      {"text":"Materialwirtschaft", "id":4},
+      {"text":"Finanzlogistik", "id":5}
+    ],
+    "rightids":"134"},
     {"q":"Nennen Sie Formalziele der Produktionsstrategie! (2)",
     "answers":[
       {"text":"Senkung der (Produktions-)Durchlaufzeit", "id":1},
@@ -888,7 +906,7 @@
       {"text":"Produktmanager koordinieren die Tätigkeiten bezüglich 'ihres' Produkts in einer ansonsten nicht nach Produkten gegliederten Primärstruktur!", "id":4}
     ],
     "rightids":"13"},
-    {"q":"Nennen Sie wesentliche Aufgaben und Bereiche des Einkaufs!",
+    {"q":"Nennen Sie wesentliche Aufgaben und Bereiche des Einkaufs! (2)",
     "answers":[
       {"text":"Vertragsabschluss mit Kunden!", "id":1},
       {"text":"Erstellung von Markteintrittsbarrieren!", "id":2},
@@ -927,7 +945,7 @@
       {"text":"sie über den Markteintritt von Konkurrenten mitentscheiden können", "id":3},
       {"text":"sie durch Verknappung der Angebotsmenge den Gleichgewichtspreis erhöhen können", "id":4}
     ],
-    "rightids":"34"},
+    "rightids":"24"},
     {"q":"Aufgabenverteilung bedeutet ... (1)",
     "answers":[
       {"text":"die Zerlegung einer Gesamtaufgabe in einzelne Teilaufgaben und Zuordnung der Teilaufgaben zu einzelnen Stellen", "id":1},
@@ -943,15 +961,15 @@
       {"text":"eine Weiterqualifikation und breitere Wissensbasis der Mitarbeiterinnen", "id":3},
       {"text":"die Reduktion der Führungsaufgaben von Instanzen", "id":4}
     ],
-    "rightids":"24"},
-    {"q":"Welche der folgenden Aussagen über eines der sieben neuen Qualitätswerkzeuge (M7/N7) sind falsch? (2)",
+    "rightids":"12"},
+    {"q":"Welche der folgenden Aussagen über eines der sieben neuen Qualitätswerkzeuge (M7/N7) sind falsch? (1)",
     "answers":[
       {"text":"Der Netzplan zeigt den zeitkritischen Pfad (=Engpass) eines Projekts auf!", "id":1},
       {"text":"Im Netzplan werden Arbeitspakete eines Projekts logisch miteinander verknüpft!", "id":2},
       {"text":"Die sieben neuen Qualitätswerkzeuge (M7/N7) dienen zur Fehlererfassung und -analyse!", "id":3},
       {"text":"Der Netzplan stellt die exakte Termineinhaltung eines Projekts sicher!", "id":4}
     ],
-    "rightids":"34"},
+    "rightids":"4"},
     {"q":"Käufergruppen im Hauptmarkt des Diffusionsprozesses sind ... (2)",
     "answers":[
       {"text":"Frühe Mehrheit", "id":1},
@@ -983,7 +1001,7 @@
       {"text":"Die Organisationsstruktur des Unternehmens", "id":3},
       {"text":"Die Effizienz des Leistungserstellungsprozesses", "id":4}
     ],
-    "rightids":"124"},
+    "rightids":"13"},
     {"q":"Funktionsbereiche der Logistik sind ... (2)",
     "answers":[
       {"text":"Beschaffungslogistik", "id":1},
@@ -1042,7 +1060,7 @@
     "rightids":"1"},
     {"q":"Wenn Plan- und ist-Werte beim Faktorpreis und beim Faktoreinsatz voneinander abweichen, bestehen die Ist-Kosten aus (1)",
     "answers":[
-      {"text":"den Sollkosten minus der Preisabweichung minus der Mengenabweichung minus der Aevelohundsinterdependenz", "id":1},
+      {"text":"den Sollkosten minus der Preisabweichung minus der Mengenabweichung minus der Abweichungsinterdependenz", "id":1},
       {"text":"den Sollkosten plus der Preisabweichung plus der Mengenabweichung", "id":2},
       {"text":"den Sollkosten plus der Preisabweichung plus der Mengenabweichung plus der Abweichungsinterdependenz", "id":3},
       {"text":"den Sollkosten plus der Preisabweichung", "id":4}
@@ -1063,7 +1081,7 @@
       {"text":"Supply Chain Management benötigt internationale Transportrouten!", "id":3},
       {"text":"Supply Chain Management steigert die Kapitalbindung in der Wertschöpfungskette!", "id":4}
     ],
-    "rightids":"4"},
+    "rightids":"2"},
     {"q":"Welche der Folgenden sind Ursachen für Markteintrittsbarrieren? (2)",
     "answers":[
       {"text":"Lizenz- oder Zulassungsanforderungen", "id":1},
@@ -1127,7 +1145,7 @@
       {"text":"Mit den sieben Qualitätswerkzeugen (Q7) können Fehler erfasst und analysiert werden!", "id":3},
       {"text":"Mit dem Korrelationsdiagramm kann keine ABC-Analyse durchgeführt werden!", "id":4}
     ],
-    "rightids":"1"},
+    "rightids":"4"},
     {"q":"Welche der folgenden Aussagen über Interviews sind korrekt? (2)",
     "answers":[
       {"text":"Bei einem Gruppen-Interview wird jeder Bewerber einzeln von mehreren Interviewern gleichzeitig befragt.", "id":1},
@@ -1191,7 +1209,7 @@
       {"text":"eine Funktion, die den erzielbaren Preis bei gegebener Absatzmenge angibt.", "id":3},
       {"text":"eine Funktion, die die Nachfrage nach einem Gut als Funktion des Preises angibt.", "id":4}
     ],
-    "rightids":"4"},
+    "rightids":"3"},
     {"q":"Wie beeinflussen Informationstechnologien die Transaktionskosten? (2)",
     "answers":[
       {"text":"Die Transaktionskosten sinken, weil Komplexität von Leistungen besser bewältigt werden kann", "id":1},
