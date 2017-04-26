@@ -1079,5 +1079,61 @@
       {"text":"hat Freude am Innovieren und Entwickeln neuer Lösungen.", "id":3},
       {"text":"ist Experte auf dem Gebiet und kennt die aktuellsten Entwicklungen", "id":4}
     ],
-    "rightids":"34"}
+    "rightids":"34"},
+    {"q":"Der einheitsbezogene Deckungsbeitrag errechnet sich aus der Differenz zwischen ... (1)",
+    "answers":[
+      {"text":"fixen und variablen SK-Einheitskosten.", "id":1},
+      {"text":"Umsatzkosten und Selbstkosten.", "id":2},
+      {"text":"Verkaufspreis und fixen SK-Einheitskosten.", "id":3},
+      {"text":"Verkaufspreis und variablen SK-Einheitskosten.", "id":4}
+    ],
+    "rightids":"4"},
+    {"q":"Personalveränderung umfasst... (1)",
+    "answers":[
+      {"text":"sämtliche Tätigkeiten des Managements der Ressource Personal", "id":1},
+      {"text":"Prognose der zukünftigen Personalzu- und abgänge", "id":2},
+      {"text":"Personalbeschaffung, Personalfreisetzung, Personalentwicklung", "id":3},
+      {"text":"Personalbedarfsanalyse, Personalbestandserhebung und die Ermittlung des daraus resultierenden Personalveränderungsbedarfs", "id":4}
+    ],
+    "rightids":"3"},
+    {"q":"Welche Aussagen zu Projekten sind richtig? (2)",
+    "answers":[
+      {"text":"Projekte sind im Gegensatz zu anderen Organisationsstrukturen zeitlich beschränkt", "id":1},
+      {"text":"Vorgesetzte aus den Stammabteilungen haben gegenüber den in ein Projekt entsandten Mitarbeitern niemals Weisungsrechte", "id":2},
+      {"text":"Mitarbeiter können mehreren Projekten gleichzeitig zugeordnet sein", "id":3},
+      {"text":"Eine Projektorganisation und eine funktionale Stuktur schließen einander aus", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Technology-Push... (2)",
+    "answers":[
+      {"text":"löst oft einen neuen Technologiezyklus aus", "id":1},
+      {"text":"erfordert ein geringeres Maß an Managementaufwand als market-pull", "id":2},
+      {"text":"hat seinen Ausgangspunkt in der Grundlagenforschung", "id":3},
+      {"text":"ist häufig bei Prozessinnovationen anzutreffen", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Am Beginn eines neuen Technologiezyklus... (2)",
+    "answers":[
+      {"text":"sind die Produktlebenszyklen verhältnismäßig länger als dessen Ende", "id":12},
+      {"text":"spezialisieren sich die Anbieter meist auf eine Branche", "id":2},
+      {"text":"ist die Preisbildung stark kostenorientiert", "id":3},
+      {"text":"ist der Managementaufwand oft hoch einzustufen", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Welche Aussage entspricht nicht der Wahrheit? (1)",
+    "answers":[
+      {"text":"Die Ishikawa- oder Paretoanalyse dient zum Ordnen der Einflüsse nach deren Wichtigkeit!", "id":1},
+      {"text":"Pareto- und Ursache-Wirkungsdiagramm dienen zur Fehleranalyse!", "id":2},
+      {"text":"Mit den sieben Qualitätswerkzeugen (Q7) können Fehler erfasst und analysiert werden!", "id":3},
+      {"text":"Mit dem Korrelationsdiagramm kann keine ABC-Analyse durchgeführt werden!", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Welche der folgenden Aussagen über Interviews sind korrekt? (2)",
+    "answers":[
+      {"text":"Bei einem Gruppen-Interview wird jeder Bewerber einzeln von mehreren Interviewern gleichzeitig befragt.", "id":1},
+      {"text":"Bei einem Jury-Interview wird jeder Bewerber einzeln von mehreren Interviewern gleichzeitig befragt.", "id":2},
+      {"text":"Bei einem strukturierten Interview wird ein fest vorgegebener Fragebogen verwendet", "id":3},
+      {"text":"Bei einem Jury-Interview wird jeder Bewerber einzeln von einem einzigen Interviewer, genannt Jury, befragt", "id":4}
+    ],
+    "rightids":"23"}
 ]}
