@@ -1031,5 +1031,53 @@
       {"text":"Lebenslauf des Bewerbers", "id":3},
       {"text":"Ergebnisse von Persönlichkeitstests", "id":4}
     ],
-    "rightids":"23"}
+    "rightids":"23"},
+    {"q":"Preisdifferenzierung dritten Grades liegt vor, wenn (1)",
+    "answers":[
+      {"text":"ein Produkt an unterschiedliche Abnehmergruppen zu unterschiedlichen Preisen abgegeben wird.", "id":1},
+      {"text":"Unterschiede in den variablen Produktionskosten an die Abnehmer weitergegeben werden.", "id":2},
+      {"text":"ein Mengenrabatt für große Absatzmengen gewährt wird.", "id":3},
+      {"text":"ein Produkt jedem Abnehmer zu einem individuellen Preis angeboten wird.", "id":4}
+    ],
+    "rightids":"1"},
+    {"q":"Wenn Plan- und ist-Werte beim Faktorpreis und beim Faktoreinsatz voneinander abweichen, bestehen die Ist-Kosten aus (1)",
+    "answers":[
+      {"text":"den Sollkosten minus der Preisabweichung minus der Mengenabweichung minus der Aevelohundsinterdependenz", "id":1},
+      {"text":"den Sollkosten plus der Preisabweichung plus der Mengenabweichung", "id":2},
+      {"text":"den Sollkosten plus der Preisabweichung plus der Mengenabweichung plus der Abweichungsinterdependenz", "id":3},
+      {"text":"den Sollkosten plus der Preisabweichung", "id":4}
+    ],
+    "rightids":"3"},
+    {"q":"Was ist keine Maßnahme der Lieferantenentwicklung? (1)",
+    "answers":[
+      {"text":"Beratungen, Z.B. bei der Technologieauswahl!", "id":1},
+      {"text":"Know-How Transfer zum Lieferanten!", "id":2},
+      {"text":"Maßnahmen zur Verbesserung der Lieferantenbeziehung!", "id":3},
+      {"text":"Finanzielle Unterstützung durch den Lieferanten!", "id":4}
+    ],
+    "rightids":"4"},
+        {"q":"Welche Aussage über Supply Chain Management ist wahr? (1)",
+    "answers":[
+      {"text":"Supply Chain Management ermöglicht den Bullwhip-Effekt!", "id":1},
+      {"text":"Supply Chain Management reduziert die Bestände bei Lieferanten!", "id":2},
+      {"text":"Supply Chain Management benötigt internationale Transportrouten!", "id":3},
+      {"text":"Supply Chain Management steigert die Kapitalbindung in der Wertschöpfungskette!", "id":4}
+    ],
+    "rightids":"4"},
+    {"q":"Welche der Folgenden sind Ursachen für Markteintrittsbarrieren? (2)",
+    "answers":[
+      {"text":"Lizenz- oder Zulassungsanforderungen", "id":1},
+      {"text":"geringe Deckungsbeiträge", "id":2},
+      {"text":"hohe Personalkosten", "id":3},
+      {"text":"hohe Investitionskosten", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Ein Lead User... (2)",
+    "answers":[
+      {"text":"entwickelt für den jeweiligen Nischenmarkt geeignete Güter mit.", "id":1},
+      {"text":"kauft neue Produkte sofort wenn diese auf den Markt kommen.", "id":2},
+      {"text":"hat Freude am Innovieren und Entwickeln neuer Lösungen.", "id":3},
+      {"text":"ist Experte auf dem Gebiet und kennt die aktuellsten Entwicklungen", "id":4}
+    ],
+    "rightids":"34"}
 ]}
