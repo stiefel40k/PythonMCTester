@@ -18,7 +18,7 @@ The catalog is in JSON format.
       {"text":"<Answer three text>", "id":3},
       {"text":"<Answer four text>", "id":4},
       ...
-      {"text":"<Answer n text>", "id":9}
+      {"text":"<Answer n text>", "id":n}
     ],
     "rightids":"<id of the right answers as one number>"}
 ]}
