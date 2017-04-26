@@ -373,7 +373,7 @@
     {"q":"Welche Aussage über die sieben neuen Qualitätswerkzeuge (M7/N7) ist falsch? (1)",
     "answers":[
       {"text":"Problemanalyse sowie Ermittlung und Umsetzung von Verbessungsmaßnahmen hat nichts mit der Qualität zu tun!", "id":1},
-      {"text":"Mit den Netzplan kann man Endzeitpunkt eines (Umsetzungs-)Projekts ermitteln", "id":2},
+      {"text":"Mit dem Netzplan kann man Endzeitpunkt eines (Umsetzungs-)Projekts ermitteln", "id":2},
       {"text":"Das Relationendiagramm zeigt Wechselbeziehungen zwischen verschiedenen Argumenten und Sichtweisen auf", "id":3},
       {"text":"Mit den N7/M7 können Alternativen zur Problemlösungsfindung bewertet werden", "id":4}
     ],
@@ -1096,7 +1096,7 @@
       {"text":"Personalbedarfsanalyse, Personalbestandserhebung und die Ermittlung des daraus resultierenden Personalveränderungsbedarfs", "id":4}
     ],
     "rightids":"3"},
-    {"q":"Welche Aussagen zu Projekten sind richtig? (2)",
+    {"q":"Welche Aussagen charakterisieren Projektorganisationen? (2)",
     "answers":[
       {"text":"Projekte sind im Gegensatz zu anderen Organisationsstrukturen zeitlich beschränkt", "id":1},
       {"text":"Vorgesetzte aus den Stammabteilungen haben gegenüber den in ein Projekt entsandten Mitarbeitern niemals Weisungsrechte", "id":2},
@@ -1239,5 +1239,164 @@
       {"text":"das Fremdkapital", "id":3},
       {"text":"das Eigenkapital", "id":4}
     ],
-    "rightids":"4"}
+    "rightids":"4"},
+    {"q":"Ansätze zur Erklärung der Existenz von Unternehmensnetzwerken sind... (2)",
+    "answers":[
+      {"text":"Neue Institutionenökonomie", "id":1},
+      {"text":"Transaktionskostentheorie", "id":2},
+      {"text":"Kernkompetenzansatz", "id":3},
+      {"text":"Neoklassische ökonomische Theorie", "id":4}
+    ],
+    "rightids":"23"},
+    {"q":"Das Eigenkapital nimmt zu wenn der Jahresüberschuss... (2)",
+    "answers":[
+      {"text":"positiv ist", "id":1},
+      {"text":"negativ ist", "id":2},
+      {"text":"größer ist als die Dividende", "id":3},
+      {"text":"kleiner ist als die Dividende", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welche der folgenden Aussagen über eines der sieben neuen Qualitätswerkzeuge (M7/N7) sind richtig? (2)",
+    "answers":[
+      {"text":"Der Netzplan stellt die exakte Termineinhaltung eines Projekts sicher", "id":1},
+      {"text":"Im Netzplan werden Arbeitspakete eines Projekts logisch miteinander verknüpft", "id":2},
+      {"text":"Mit einer Qualitätsregelkarte wird ein Prozess bezüglich Einhaltung der Toleranzgrenzen überwacht!", "id":3},
+      {"text":"Das Ursache-Wirkungsdiagramm wird auch als Ishikawa-Diagramm bezeichnet!", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Welche Aussagen über die sieben Qualitätswerkzeuge (Q7) sind wahr? (2)",
+    "answers":[
+      {"text":"Das Histogramm ermöglicht eine regelmassige Kontrolle, ob ein Prozess innerhalb seiner Toleranzgrenzen arbeitet", "id":1},
+      {"text":"Mit der ABC Analyse kann man z.B. den bestand im Lager nach bestimmten Kriterien ordnen/gewichten.", "id":2},
+      {"text":"Das Fischgerätendiagramm (Ishikawa) ermöglicht eine (Fehler-)Analyse von Ursache und ???", "id":3},
+      {"text":"Das Baumdiagramm gliedert ein Thema in verschiedenen Ebenen auf", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Bei einer Linearen Kostenfunktion... (2)",
+    "answers":[
+      {"text":"steigen die Grenzkosten stark an", "id":1},
+      {"text":"hat der Verlauf eine negative Steigung", "id":2},
+      {"text":"bleiben die Grenzkosten unverändert", "id":3},
+      {"text":"entsprechen die Grenzkosten den variablen Einheitskosten", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Ein Polypol ist eine Marktform.... (1)",
+    "answers":[
+      {"text":"in der einige wenige Anbieter agieren.", "id":1},
+      {"text":"in der sehr viele kleine Anbieter agieren.", "id":2},
+      {"text":"in der es einen einzelnen Anbieter gibt", "id":3}
+    ],
+    "rightids":"2"},
+    {"q":"Welche Aussage ist falsch? (2)",
+    "answers":[
+      {"text":"Sekundärbedarf ist der Bedarf an verkaufsfähigen Erzeugnissen.", "id":1},
+      {"text":"Sekundärbedarf ist der Bedarf an Halbfertigprodukten und Rohstoffen, die sich aus dem Primärbedarf ergeben.", "id":2},
+      {"text":"Primärbedarf ist der Bedarf an verkaufsfähigen Erzeugnissen!", "id":3},
+      {"text":"Primärbedarf ist nicht der Bedarf an verkaufsfähigen Erzeugnissen!", "id":4}
+    ],
+    "rightids":"14"},
+    {"q":"Zu den Hauptproblemquellen gehören (2)",
+    "answers":[
+      {"text":"Matrix", "id":1},
+      {"text":"Maschine", "id":2},
+      {"text":"Menge", "id":3},
+      {"text":"Material", "id":4}
+    ],
+    "rightids":"24"},
+    {"q":"Nicht zu den Hauptproblemquellen gehören (2)",
+    "answers":[
+      {"text":"Markt", "id":1},
+      {"text":"Methode", "id":2},
+      {"text":"Montage", "id":3},
+      {"text":"Mitwelt", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den Hauptproblemquellen gehören (2)",
+    "answers":[
+      {"text":"Matrix", "id":1},
+      {"text":"Maschine", "id":2},
+      {"text":"Menge", "id":3},
+      {"text":"Mensch", "id":4}
+    ],
+    "rightids":"24"},
+        {"q":"Der Verkaufspreis Einheit rechnet sich indem... (1)",
+    "answers":[
+      {"text":"Variable Umsatzkosten durch Absatzmenge", "id":1},
+      {"text":"der Umsatz durch die Absatzmenge dividiert wird.", "id":2},
+      {"text":"fixe Einheitskosten plus variable Einheitskosten", "id":3},
+      {"text":"Umsatzkosten plus Selbstkosten", "id":4}
+    ],
+    "rightids":"2"},
+        {"q":"Die variablen Einheitskosten errechnen sich mit.. (1)",
+    "answers":[
+      {"text":"fixe Einheitskosten plus variable Einheitskosten", "id":1},
+      {"text":"Umsatzkosten minus Selbstkosten", "id":2},
+      {"text":"Variable Umsatzkosten durch Absatzmenge", "id":3},
+      {"text":"Selbstkosten minus Umsatzkosten", "id":4}
+    ],
+    "rightids":"3"},
+        {"q":"Die vollen Einheitskosten errechnen sich mit (2)",
+    "answers":[
+      {"text":"Variable Umsatzkosten durch Absatzmenge", "id":1},
+      {"text":"Absatzmenge durch Umsatzkosten", "id":2},
+      {"text":"fixe Einheitskosten plus variable Einheitskosten", "id":3},
+      {"text":"Umsatzkosten durch Absatzmenge", "id":4}
+    ],
+    "rightids":"34"},
+    {"q":"Zum Working Capital zählen nicht... (1)",
+    "answers":[
+      {"text":"Vorräte", "id":1},
+      {"text":"Maschinen", "id":2},
+      {"text":"Kasse", "id":3},
+      {"text":"Forderungen", "id":4}
+    ],
+    "rightids":"2"},
+    {"q":"Gegenüber Netzwerken weisen Hierarchien... (2)",
+    "answers":[
+      {"text":"durch das dezentale Gesamtsystem eine höhere Umweltsensibilität auf", "id":1},
+      {"text":"Wettbewerbsvorteile als Motivation auf", "id":2},
+      {"text":"eine höhere Reversibilität der Kooperationsentscheidung auf", "id":3},
+      {"text":"Kooperation und Wettbewerb auf", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Personalentwicklungsmöglichkeiten im Bereich der Arbeitsgestaltung sind (2)",
+    "answers":[
+      {"text":"job enrichtment", "id":1},
+      {"text":"job sharing", "id":2},
+      {"text":"job enlargement", "id":3},
+      {"text":"job entitlement", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Marktinnovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Prozessinnovation", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Organisationale Innovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Produktinnovation", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Zu den 5 Schrumpeterschen Suchfeldern zählen unter anderem... (2)",
+    "answers":[
+      {"text":"Organisationale Innovation", "id":1},
+      {"text":"inkrementelle Innovation", "id":2},
+      {"text":"Neue Rohstoffe oder Vorprodukte (Inputs)", "id":3},
+      {"text":"radikale Innovation", "id":4}
+    ],
+    "rightids":"13"},
+    {"q":"Welches der folgenden Tools zählt nicht zu den sieben Qualitätswerkzeugen (Q7)? (1)",
+    "answers":[
+      {"text":"Qualitätsregelkarte", "id":1},
+      {"text":"Fehlersammelliste oder Aufnahmebogen", "id":2},
+      {"text":"PDCA-Zyklus", "id":3},
+      {"text":"Grafische Darstellung/Stratifikation", "id":4}
+    ],
+    "rightids":"3"}
 ]}
