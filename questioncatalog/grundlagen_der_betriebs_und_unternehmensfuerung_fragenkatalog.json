@@ -1175,8 +1175,8 @@
       {"text":"Geringe Bestände erhöhen tendentiell die Lieferbereitschaft!", "id":3},
       {"text":"Maximierung der Kapazitätsauslastung führt zu geringer Kapitalbindung!", "id":4}
     ],
-    "rightids":"Keine Ansätze zur Erklärung der Existenz von Unternehmensnetzwerken sind... (2)"},
-    {"q":"2",
+    "rightids":"2"},
+    {"q":"Keine Ansätze zur Erklärung der Existenz von Unternehmensnetzwerken sind... (2)",
     "answers":[
       {"text":"Neue Institutionenökonomie", "id":1},
       {"text":"Transaktionskostentheorie", "id":2},
