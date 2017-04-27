@@ -897,7 +897,7 @@
       {"text":"Total Quality Management ist kein Zertifikat!", "id":3},
       {"text":"Ein Zertifikat liefert hohe Produktqualität!", "id":4}
     ],
-    "rightids":"1"},
+    "rightids":"3"},
     {"q":"Welche Aussagen zu lateralen Koordinationsmechanismen treffen zu? (2)",
     "answers":[
       {"text":"Fayol'sche Brücken ermöglichen die Beschleunigung der Weisungserteilung durch Umgehung des Instanzenzugs", "id":1},
@@ -994,7 +994,7 @@
       {"text":"der beschafften Menge", "id":4}
     ],
     "rightids":"1"},
-    {"q":"Welche Faktoren haben direkten Einfluß auf den Personaleinsatzbedarf? (2)",
+    {"q":"Welche Faktoren haben direkten Einfluß auf den Personaleinsatzbedarf? (3)",
     "answers":[
       {"text":"Vorhersehbare Pensionierungen", "id":1},
       {"text":"Die aktuelle Arbeitsmarktsituation", "id":2},
