@@ -106,7 +106,7 @@
     {"q":"Was bedeuten die Begriffe des PDCA-Zyklus? (2)",
     "answers":[
       {"text":"Act = Verbesserungmaßnahmen umsetzen", "id":1},
-      {"text":"Check = Soll/Ist-Vergleich nach Umsetzen der Verbesserungsmaßnahmen", "id":2},
+      {"text":"Check = Soll/Ist-Vergleich vor Umsetzen der Verbesserungsmaßnahmen", "id":2},
       {"text":"Do = Auswirkungen der umgesetzen Verbesserungsmaßnahmen werden untersucht und positive Ergebnisse nachhaltig verankert", "id":3},
       {"text":"Plan = Schaffen der Voraussetzungen zur Durchführung von Verbesserungsmaßnahmen", "id":4}
     ],
@@ -433,7 +433,7 @@
       {"text":"Primärbedarf beschreibt den Bedarf an Baugruppen von Lieferanten", "id":1},
       {"text":"Primärbefarf ist Bruttobedarf minus Nettobedarf", "id":2},
       {"text":"Primärbedarf beschreibt den Bedarf an Produktionsanlagen", "id":3},
-      {"text":"Primärbedarf beschreibt den Bedarf an verkaufsfähigen Ezeugnissen", "id":4}
+      {"text":"Primärbedarf beschreibt den Bedarf an verkaufsfähigen Erzeugnissen", "id":4}
     ],
     "rightids":"4"},
     {"q":"Am Beginn eines neuen Technologiezyklus ... (2)",
