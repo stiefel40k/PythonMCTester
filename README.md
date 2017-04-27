@@ -7,6 +7,13 @@ So basically I needed a tool to learn for an multiple choice test so I wrote one
 # How to run it #
 `python mc_tester.py <path_to_catalog>`
 
+## On Windows ##
+1. Unzip the archive
+2. Open the folder
+3. Hold shift and hit the right mouse button
+4. In the context menu choose "Open command line here" or something similar
+5. Run the code as previously stated
+
 # The catalog #
 The catalog is in JSON format.
 ```
